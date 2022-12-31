@@ -1,0 +1,93 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maude"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": "4",
+      "plumberId": "1",
+      "date_created": 1671477952747,
+      "id": 1
+    },
+    {
+      "requestId": "6",
+      "plumberId": "2",
+      "date_created": 1671477981877,
+      "id": 2
+    },
+    {
+      "requestId": "4",
+      "plumberId": "1",
+      "date_created": 1671478038966,
+      "id": 4
+    },
+    {
+      "requestId": "4",
+      "plumberId": "2",
+      "date_created": 1671478041810,
+      "id": 5
+    },
+    {
+      "requestId": "7",
+      "plumberId": "2",
+      "date_created": 1671478130135,
+      "id": 6
+    },
+    {
+      "requestId": "4",
+      "plumberId": "1",
+      "date_created": 1671478429548,
+      "id": 7
+    },
+    {
+      "requestId": "8",
+      "plumberId": "2",
+      "date_created": 1671478515477,
+      "id": 8
+    }
+  ],
+  "requests": [
+    {
+      "description": "Toilet exploded",
+      "address": "500 Brooksway Dr",
+      "budget": "10000.00",
+      "neededBy": "2022-12-31",
+      "id": 4
+    },
+    {
+      "description": "Flooded basement",
+      "address": "1111 One Dr",
+      "budget": "470",
+      "neededBy": "2022-12-23",
+      "id": 6
+    },
+    {
+      "description": "Leaky kitchen sink",
+      "address": "123 Infinity Way",
+      "budget": "650",
+      "neededBy": "2022-12-19",
+      "id": 7
+    },
+    {
+      "description": "Clogged sink",
+      "address": "5231325 ABC Dr",
+      "budget": "1500",
+      "neededBy": "2022-12-30",
+      "id": 8
+    },
+    {
+      "description": "Sink won't work",
+      "address": "5839 Gallatin Ave",
+      "budget": "900",
+      "neededBy": "2022-12-23",
+      "id": 9
+    }
+  ]
+}

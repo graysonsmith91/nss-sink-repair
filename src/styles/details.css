@@ -1,0 +1,29 @@
+/*
+    Use flex-direction column on wrapper <div> elements
+*/
+
+.serviceForm {
+    margin: 10px 20px 30px 20px;
+}
+
+.label {
+    display: block;
+    flex-direction: column;
+    padding: 5px;
+}
+
+#submitRequest {
+    margin-top: 30px;
+    padding: 5px 10px;
+    background-color: #7a4988;
+    color: white;
+}
+
+.input {
+    width: 80vw;
+}
+
+.title {
+    font-size: 1.5rem;
+    margin-left: 20px;
+}
